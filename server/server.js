@@ -1,5 +1,4 @@
 import express from 'express'
-import winston from 'winston'
 import morgan from 'morgan'
 import monk from 'monk'
 import cors from 'cors'
